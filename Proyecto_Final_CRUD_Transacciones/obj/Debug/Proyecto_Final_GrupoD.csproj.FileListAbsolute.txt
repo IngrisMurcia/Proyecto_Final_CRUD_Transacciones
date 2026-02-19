@@ -1,0 +1,17 @@
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.csproj.AssemblyReference.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.Orders.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.Properties.Resources.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.csproj.GenerateResource.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.csproj.CoreCompileInputs.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\bin\Debug\Proyecto_Final_GrupoD.exe.config
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\bin\Debug\Proyecto_Final_GrupoD.exe
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\bin\Debug\Proyecto_Final_GrupoD.pdb
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.exe
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.pdb
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.exe.config
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.Productos.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.Menu.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.vwConsulta.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.Employees.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.Categories.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\3 Parcial\Proyecto_Final_GrupoD\obj\Debug\Proyecto_Final_GrupoD.Customers.resources
